@@ -1,0 +1,21 @@
+{
+    "branch": "ข้อมูลสาขา",
+    "person": "ข้อมูลบุคคล",
+    "subjectrmutt": "วิชาในสาชา",
+    "classroom": "ห้องเรียนประจำสาขา",
+    "Additional information": "ข้อมูลเพิ่มเติม",
+    "help": "ช่วยเหลือ",
+    "change language": "เปลี่ยนภาษา",
+    "news": "ข่าวสาร",
+    "library":"ห้องสมุด",
+    "roomrmutt":"ห้องเรียน",
+    "laboratory":"ห้องปฏิบัติการ",
+    "freshman":"ปี1",
+    "sophomore":"ปี2",
+    "junior":"ปี3",
+    "senior":"ปี4",
+    "Showmore": "แสดงเพิ่ม",
+    "Showlass": "แสดงลดลง",
+    "Welcome": "ยินดีตอนรับ",
+    "chatsupport":"แชทช่วยเหลือ"
+}
